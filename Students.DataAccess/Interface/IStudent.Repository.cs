@@ -8,5 +8,6 @@ namespace Students.DataAccess.Interface
 {
     internal interface DataAccess
     {
+        void Get();
     }
 }
